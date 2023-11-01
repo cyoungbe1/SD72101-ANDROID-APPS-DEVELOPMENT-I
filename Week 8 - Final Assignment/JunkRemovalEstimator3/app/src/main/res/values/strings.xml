@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Junk Removal Estimator 3</string>
+    <string name="apptitle">Junk Removal Estimator</string>
+    <string name="projectSize">Choose Project Size:</string>
+    <string name="laborRequirement">Labor Requirement:</string>
+    <string name="smallTeam">Small Team</string>
+    <string name="largeTeam">Large Team</string>
+    <string name="timeLength">Length of Time:</string>
+    <string name="oneHour2">1 Hour</string>
+    <string name="oneDay2">1 Day</string>
+    <string name="twoDays2">2 Days</string>
+    <string name="threeDays2">3 Days</string>
+    <string name="senior2">Senoir</string>
+    <string name="student2">Student</string>
+    <string name="publicServant2">Public Servant</string>
+    <string name="package2">Package</string>
+    <string name="projectDeatilsbtn2">Project Details</string>
+    <string name="getestimate">GET ESTIMATE</string>
+    <string name="letsgobtn">\"LET\'S GO HAUL SOME SH**!!\"</string>
+    <string name="launchtitle">Junk in the Trunk Hauling \n Estimator</string>
+    <string name="projectdetails">PROJECT DETAILS:</string>
+    <string name="finalestimate">FINAL ESTIMATE:</string>
+    <string name="discount">Discount:</string>
+    <string name="detailsTitle">PROJECT DETAILS:</string>
+    <string name="projectdetailsOutput" />
+    <string name="launchButton">\"LET\'S GO HAUL SOME TRASH!\"</string>
+
+    <string-array name="Project_Size">
+        <item>Small Load</item>
+        <item>Medium Load</item>
+        <item>Large Load</item>
+    </string-array>
+
+    <string-array name="projectdescrips">
+<item>
+Small Load:\n
+Typically a 10 yard dumpster size load, this project will require only a team of two laborers to complete.
+</item>
+        <item>
+Medium Load:\n
+Typically a 15 yard dumpster size load, this project will require a team of three laborers to complete.
+        </item>
+            <item>
+Large Load:\n
+Typically a 30 yard dumpster size load, this project will require a team of no less than three laborers and could require as many as five laborers
+        </item>
+
+    </string-array>
+
+</resources>

@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Software Dev. Careers</string>
+    <string name="tab_text_1">Titles</string>
+    <string name="tab_text_2">Terms</string>
+    <string name="tab_text_3">Jobs</string>
+    <string name="jobtitlesPositions">JOB TITLES/POSITIONS</string>
+    <string name="choosejobTitle">Choose a job title:</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="termList">"Agile: A process based on requirements, discovery, improvements and solutions improvement through a collaborative effort between scrum teams and their end-users in a constantly improving effort to develop the best product possible  \n Front-end development: A development process by which the developer creates the part of the app or website that the user interacts with.  This involves the application of engineering languages such as Javascript, HTML and CSS in creating the part of website or app that the user can interact with. \n Back-end development: Development process involving the creation and maintenance of server-side software with a focus on databases, serverside logic, API's and architecture to ensure that the app or website fuctions properly. \n SASS:  A preprocessor scripting language that is compiled into Cascading Style Sheets. SASS employs the use of programming language fucndionality to make the writing of CSS much more powerful.\n  CMS:  Stands for Content Management System.  It helps create, manage and publish content on the web. Useful for organization and accessibility, CMS allows content to be repurposed effectivley.   \n GIS: Geographic Information Systems ued to store, visualize and interpret geographic data  \n Progressive Web App: Web apps that employs progressive enhancement along with service workers, manifests, and other web-platform functionality to enhance the user experience bringing it to a state comparable to native apps.  \n Javascript: A client-side/front-end scripting language used by developers all over the world to create dynamic, interactive web content including applications and browsers \n "</string>
+
+    <string-array name="Titles">
+    <item>
+        Choose:
+    </item>
+    <item>
+        Mobile developers
+    </item>
+    <item>
+        Computer software engineers
+    </item>
+    <item>
+        Database administrator
+    </item>
+    <item>
+        Web developers
+    </item>
+    <item>
+        network engineers
+    </item>
+    <item>
+        Systems administrators
+    </item>
+</string-array>
+
+<string-array name="titledescrips">
+<item>
+    ...make a selection
+    </item>
+<item>
+Mobile developers specialize in mobile technology such as building apps for Google Android, and Apple’s iOS platforms. For this reason job titles for this type of role also include Android developer and iOS developer. Mobile developers code in a handful of major mobile platforms, each with its own core language and development environment.
+Demand for mobile developers across platforms has never been stronger as the industry tries to keep up with surging demand.
+Gartner Inc. has forecast that worldwide sales of smartphones to end users are on track to reach 1.57 billion units in 2020.
+        </item>
+<item>
+Computer software engineers design and develop software. They apply the theories and principles of computer science and mathematical analysis to create, test, and evaluate the software applications and systems that make computers work.
+Computer software engineers can generally be divided into two categories: applications engineers and systems engineers.
+    Computer applications software engineers analyze end users needs and design, construct, deploy, and maintain general computer applications software or specialized utility programs. These workers use different programming languages, depending on the purpose of the program and the environment in which the program runs. The programming languages most often used are C, C++, C#, Java, and Python.
+    Computer systems software engineers coordinate the construction, maintenance, and expansion of an organizations computer systems.
+</item>
+<item>
+Database administrators work with database management software and determine ways to store, organize, analyze, use, and present data. They identify user needs and set up new computer databases. Since many databases are connected to the Internet, database administrators also plan and coordinate security measures with network administrators. Some database administrators may also be responsible for database design, but this task is usually performed by database designers or database analysts.
+</item>
+<item>
+Web developers are responsible for the technical aspects of Web site creation. Using software languages and tools, they create applications for the Web. They identify a site’s users and oversee its production and implementation. They determine the information that the site will contain and how it will be organized, and may use Web development software to integrate databases and other information systems. Some of these workers may be responsible for the visual appearance of Web sites.
+
+Using design software, they create pages that appeal to the tastes of the site’s users.
+Webmasters or Web administrators are responsible for maintaining Web sites. They oversee issues such as availability to users and speed of access, and are responsible for approving the content of the site. Webmasters also collect and analyze data on Web activity, traffic patterns, and other metrics, as well as monitor and respond to user feedback.
+</item>
+<item>
+Network architects or network engineers are the designers of computer networks. They set up, test, and evaluate systems such as local area networks (LANs), wide area networks (WANs), the Internet, intranets, and other data communications systems.   Network architects and engineers perform network modeling, analysis, and planning, which often require both hardware and software solutions.   These workers may also research related products and make necessary hardware and software recommendations, as well as address information security issues.
+</item>
+<item>
+Systems administrators are responsible for maintaining system efficiency. They ensure that the design of an organization’s computer system allows all of the components, including computers, the network, and software, to work properly together. Administrators also troubleshoot problems reported by users and by automated network monitoring systems and make recommendations for future system upgrades. Systems administrators are also often responsible for maintaining network and system security.
+</item>
+</string-array>
+
+</resources>

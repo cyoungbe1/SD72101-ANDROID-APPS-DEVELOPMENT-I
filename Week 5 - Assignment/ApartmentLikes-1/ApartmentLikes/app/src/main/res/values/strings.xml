@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Apartment Likes</string>
+    <string name="viewlikes">VIEW LIKES</string>
+    <string name="addalike">ADD A \"LIKE\"</string>
+    <string name="apartmentlikestracker">Apartment Likes Tracker</string>
+    <string name="choosabackground">Choose a background:</string>
+    <string name="time">TIME</string>
+    <string name="travel">TRAVEL</string>
+    <string name="inc">INC.</string>
+    <string name="takeoff">TAKE OFF !</string>
+    <string name="towonderspast">to wonders past..</string>
+    <string name="addanewlike">Add a new \"Like\"</string>
+    <string name="address">Address:</string>
+    <string name="addressinput">address or partial address</string>
+    <string name="bedroomsprompt">Number of Bedrooms:</string>
+    <string name="bathsprompt">Number of Baths:</string>
+    <string name="rentprompt">Monthly Rent? $</string>
+    <string name="nodecimal">(no decimal)</string>
+    <string name="bedroomsinput" />
+    <string name="bathsinput" />
+    <string name="rentinput" />
+    <string name="notes">special notes here...</string>
+    <string name="addthisaptlike">ADD THIS APT \"LIKE\"</string>
+    <string name="notesinput">special notes here...</string>
+    <string name="addanewlikeretreivalscrn">\"Add a new \"Like\"</string>
+    <string name="notesinputPrompt">Notes:</string>
+    <string name="hereareyourlikes">Here are your \"Likes\":</string>
+</resources>

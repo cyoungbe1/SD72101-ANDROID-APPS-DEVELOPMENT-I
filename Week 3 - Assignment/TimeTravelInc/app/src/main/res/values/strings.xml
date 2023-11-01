@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Time Travel Inc</string>
+    <string name="apptitle">Seven Wonders of the World Destinations</string>
+    <string name="destinationprompt">Choose A Wonder Destination</string>
+    <string name="fourdays">4 days</string>
+    <string name="oneweek">1 week</string>
+    <string name="twoweeks">2 weeks</string>
+    <string name="onemonth">1 month</string>
+    <string name="packageprompt">Packages:</string>
+    <string name="standardrb">Standard</string>
+    <string name="deluxerb">Deluxe</string>
+    <string name="firstclassrb">First Class</string>
+    <string name="durationprompt">Length of Time:</string>
+    <string name="modeoftravelprompt">Mode of Travel</string>
+    <string name="chbxair">Air</string>
+    <string name="chbxairandwater">Air and Water</string>
+    <string name="moredetails">MORE DETAILS</string>
+
+    <string-array name="destinations">
+        <item>Great Wall of China</item>
+        <item>Colosseum in Rome</item>
+        <item>Machu Picchu in Peru</item>
+        <item>Chechen Itza in Mexico</item>
+        <item>Taj Mahal in India</item>
+        <item>Christ the Redeemer in Brazil</item>
+        <item>Pyramids of Giza</item>
+    </string-array>
+</resources>

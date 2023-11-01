@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DivingApp</string>
+    <string name="the_image_of_a_big_mouthed_fish_skeleton">The image of a big mouthed fish skeleton</string>
+    <string name="how_long_can_i_stay_down">HOW LONG CAN I STAY DOWN?</string>
+    <string name="rmvprompt">RMV:</string>
+    <string name="tankvolumeprompt">Tank Volume:</string>
+    <string name="sapprompt">SAP:</string>
+    <string name="depthprompt">Depth:</string>
+    <string name="reserveprompt">Reserve:</string>
+    <string name="diversrmv">diver\'s RMV</string>
+    <string name="tankvolume">amount_of_air_in_tank</string>
+    <string name="sap">starting air pressure</string>
+    <string name="depth">planned depth in feet</string>
+    <string name="reserve">reserve this air amount</string>
+    <string name="btncalculate">PRESS TO FIND OUT HOW LONG I CAN STAY DOWN...</string>
+</resources>

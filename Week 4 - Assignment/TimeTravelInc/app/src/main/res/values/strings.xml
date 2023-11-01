@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Time Travel Inc</string>
+    <string name="apptitle">Seven Wonders of the World Destinations</string>
+    <string name="destinationprompt">Choose A Wonder Destination</string>
+    <string name="fourdays">4 days</string>
+    <string name="oneweek">1 week</string>
+    <string name="twoweeks">2 weeks</string>
+    <string name="onemonth">1 month</string>
+    <string name="packageprompt">Packages:</string>
+    <string name="standardrb">Standard</string>
+    <string name="deluxerb">Deluxe</string>
+    <string name="firstclassrb">First Class</string>
+    <string name="durationprompt">Length of Time:</string>
+    <string name="modeoftravelprompt">Mode of Travel</string>
+    <string name="chbxair">Air</string>
+    <string name="chbxairandwater">Air and Water</string>
+    <string name="moredetails">MORE DETAILS</string>
+    <string name="destinationcolosseum">Destination: Colosseum in Rome</string>
+    <string name="destdescriptfds">Destination description</string>
+    <string name="destdescrips" />
+    <string name="destinationpicture" />
+    <string name="destintro">You are going to the </string>
+    <string name="backbtn1">BACK</string>
+    <string name="time">TIME</string>
+    <string name="travel">TRAVEL</string>
+    <string name="inc">INC.</string>
+    <string name="takeoff">TAKE OFF !</string>
+    <string name="towonderspast">to wonders past..</string>
+    <string name="destinationbox">"Destination: "</string>
+    <string name="youaregoingtothe">\"You are going to the \"</string>
+    <string name="yourgoingtothe">"You are going to the "</string>
+
+    <string-array name="destinations">
+        <item>Great Wall of China</item>
+        <item>Colosseum in Rome</item>
+        <item>Machu Picchu in Peru</item>
+        <item>Chechen Itza in Mexico</item>
+        <item>Taj Mahal in India</item>
+        <item>Christ the Redeemer in Brazil</item>
+        <item>Pyramids of Giza</item>
+    </string-array>
+
+
+    <string-array name="destdescrips">
+<item>
+Great Wall of China\n
+Built in 220-206 BC to withstand the mongul tribes and is the largest man-made structure ever built.
+\nIt stretches 5500 miles. It was built with tamped earth, brick, stone and wood.
+</item>
+        <item>
+Colosseum\n
+Built in 72 AD by Roman emperor Vespasian to seat 50 thousand people for celebrations, ceremonies, combats and sporting events. One of the truly iconic symbols of ancient Rome.
+</item>
+        <item>
+Machu Picchu\n
+Uncluttered unspoiled, architectural gems of the world. Machu was built by Pachacuti, an Inca emperor in the 15th century. It is surrounded by misty mountains along the Urubamba river.
+</item>
+        <item>
+Chechen Itza\n
+It was built nearly 1000 years ago. The Mayans and Toltec view of the world are revealed through their artistic works, and monuments and magnificent architectural brilliance. The Mayans are also renowned for their mathematical and astronomical movements of the moon, sun, and Venus which may be seen etched in their buildings.
+</item>
+        <item>
+Taj Mahal\n
+It was built in the 17th century by Emperor Shah Jahan. It is literally a white marble expression of the love of the emperor for his wife, Mumtaz Mahal. Its spiraling marble towers and delicate architecture enclose gardens, fountains and a reflecting pool that encompasses the image of the grand structure.
+</item>
+        <item>
+Christ the Redeemer\n
+The monument was inaugurated on October 12, 1931. The statue was designed by French sculptor Paul Landowski and built atop Mount Corovado, with breathtaking views of Rio de Janeiro, Brazil. The reason it was built is to show Christ loves everyone.
+</item>
+        <item>
+Pyramids of Giza\n
+The pyramids were built around 2500 B.C. by Pharoah Khufu, and constitute the last standing wonder of the ancient world. For over 3800 years, the pyramids were the tallest structure ever built at a height of 481 feet. The wall art, statues, and architectural precision is considered unparalleled in the ancient world.
+</item>
+    </string-array>
+
+</resources>
